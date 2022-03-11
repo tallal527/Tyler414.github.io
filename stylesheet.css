@@ -1,0 +1,56 @@
+/* You should edit the content below to fit your website */
+
+* {
+	font-family: Arial, Verdana, sans-serif;
+	color: #f5eec2;
+	text-align: center;}
+nav {
+	background-color: #008000;
+	padding:  10px;
+	margin:  10px;}
+body { 
+	width: 960px;
+	margin: 0 auto;
+	background-color: #000000
+
+	}
+#content {
+	overflow: auto;
+	height: 100%;}
+.column1, .column2, .column3 {
+	float: left;
+	margin: 10px;}
+li {
+	display: inline;
+	padding: 5px;}
+dl {
+text-align: left;
+padding: 5px;
+background-color: #008000;
+}
+section{
+	overflow: auto;
+	height:  100%;
+	background-color: #008000;
+}
+main{
+	background-color: #008000;
+	padding:  10px;
+	margin:  10px;
+}
+article{
+	background-color: #008000;
+	padding:  10px;
+	margin:  10px;
+	float: left;
+	width: 280px;
+}
+
+footer {
+	background-color: #008000;
+	padding:  10px;
+	margin:  10px;
+}
+.mart {
+	color: #fffdd0;	
+}
